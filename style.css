@@ -25,3 +25,25 @@ h1 {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.main {
+    color: white;
+    background-color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.list #Ingredients {
+    color: yellow;
+    font-size: 12px;
+}
+
+.list #Steps {
+    color: tan;
+}
+
+.list {
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blueviolet;
+}
